@@ -1,0 +1,30 @@
+div { 
+height: 200px;
+width: 200px;
+border-style:dashed;
+color:rgb(216, 97, 214);
+border-radius: 5px;
+border: width 10px;
+border-top-style: ridge ;
+border-bottom-style:dashed ;
+border-left-style: dotted;
+border-right-style: double;
+outline-style:solid ; 
+outline-width: 5px;
+outline-color: red;
+outline-offset: 5px;
+
+
+}
+
+h1{
+height: 200px ;
+width:200px;
+border-style:dashed ;
+
+}
+p{
+border: 5px solid blue;
+
+ }
+ 

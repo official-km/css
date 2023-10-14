@@ -1,0 +1,14 @@
+#Haji {
+    color: plum;
+}
+.Adar {color: darkgoldenrod;}
+/* I love flexibility */
+body{
+    background-image:url(kawaii.jpg);
+    background-attachment: fixed;
+
+}
+.Adar{
+scroll-behavior:auto;
+}
+body {color: rosybrown;}
